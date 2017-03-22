@@ -1,0 +1,4 @@
+class Wheel {   public void inflate(int psi {   System.out.println("Inflating to " + psi + "psi");   
+
+
+} } 
